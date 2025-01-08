@@ -5,7 +5,8 @@
 - Mobile Number:9746621753
 - Email:abinshajiabin2006@gmail.com
 - 😄 Pronouns:He/HIm
--  Click here to see my resume : https://github.com/<Abin-Shaji-Thomas>/<Abin-Shaji-Thomas>blob/main/URK24CS6007_ABIN%20SHAJI%20THOMAS
+- Click here to see my resume: [URK24CS6007_ABIN SHAJI THOMAS.pdf](https://github.com/abinshaji/resume-repo/blob/main/URK24CS6007_ABIN%20SHAJI%20THOMAS.pdf)
+
 
 <!---
 Abin-Shaji-Thomas/Abin-Shaji-Thomas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
