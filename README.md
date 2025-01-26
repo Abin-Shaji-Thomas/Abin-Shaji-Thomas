@@ -5,7 +5,6 @@
 - 📫 How to reach me
   - Mobile Number:9746621753
   - Email:abinshajiabin2006@gmail.com
-- 🏫 Student at Karunya University
 - [Click here to see my resume](https://github.com/Abin-Shaji-Thomas/Abin-Shaji-Thomas/blob/main/URK24CS6007_ABIN%20SHAJI%20THOMAS.pdf)
 
 
