@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abin-Shaji-Thomas
 - 😄 Pronouns:He/HIm
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning BTech Computer Science and Engineering(Specilisation in Cyber Security)
+
 - 📫 How to reach me
   - Mobile Number:9746621753
   - Email:abinshajiabin2006@gmail.com
