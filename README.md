@@ -5,7 +5,7 @@
 - 📫 How to reach me
   - Mobile Number:8078071753
   - Email:abinshajiabin2006@gmail.com
-- [Click here to see my resume](https://github.com/Abin-Shaji-Thomas/Abin-Shaji-Thomas/blob/main/URK24CS6007_ABIN%20SHAJI%20THOMAS.pdf)
+- [Click here to see my resume](https://github.com/Abin-Shaji-Thomas/Abin-Shaji-Thomas/blob/main/2nd_updated_resume.pdf)
 
 
 <!---
