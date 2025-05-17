@@ -5,7 +5,9 @@
 ### 🌱 I’m currently pursuing **BTech in Computer Science and Engineering** with a specialization in **Cyber Security**
   
 ---
-[🏆Trophy]
+
+## 🏆Trophy
+
 [![🏆Trophy](https://github-profile-trophy.vercel.app/?username=Abin-Shaji-Thomas)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 How to Reach Me:
