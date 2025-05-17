@@ -33,7 +33,6 @@
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![RedHat](https://skillicons.dev/icons?i=redhat)
 ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
-![Windows 11]<i class="devicon-windows11-original-wordmark colored"></i>
 ![PowerShell](https://skillicons.dev/icons?i=powershell)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![Eclipse](https://skillicons.dev/icons?i=eclipse)
