@@ -33,6 +33,7 @@
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![RedHat](https://skillicons.dev/icons?i=redhat)
 ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
+![Windows 11](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" />)
 ![PowerShell](https://skillicons.dev/icons?i=powershell)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![Eclipse](https://skillicons.dev/icons?i=eclipse)
