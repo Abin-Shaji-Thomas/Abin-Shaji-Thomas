@@ -33,6 +33,8 @@
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![RedHat](https://skillicons.dev/icons?i=redhat)
 ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
+![PowerShell](https://skillicons.dev/icons?i=powershell)
+![Terminal](https://skillicons.dev/icons?i=terminal)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![Eclipse](https://skillicons.dev/icons?i=eclipse)
 ![Arduino](https://skillicons.dev/icons?i=arduino)
