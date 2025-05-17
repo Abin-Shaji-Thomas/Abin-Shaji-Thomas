@@ -6,7 +6,7 @@
   
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Abin-Shaji-Thomas)](https://github.com/ryo-ma/github-profile-trophy)
+![🏆Trophy](https://github-profile-trophy.vercel.app/?username=Abin-Shaji-Thomas)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 How to Reach Me:
 - 📱 **Mobile**: [8078071753](tel:8078071753)
@@ -24,9 +24,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Password-Strength-Checker-In-Java)](https://github.com/Abin-Shaji-Thomas/Password-Strength-Checker-In-Java)
 
-## 📄 **[Click here to view my Resume](https://github.com/Abin-Shaji-Thomas/Abin-Shaji-Thomas/blob/main/Resume.pdf)**
-
 ---
+
+## 📄 **[Click here to view my Resume](https://github.com/Abin-Shaji-Thomas/Abin-Shaji-Thomas/blob/main/Resume.pdf)**
 
 ## 🏅 **Certifications & Badges**
 
