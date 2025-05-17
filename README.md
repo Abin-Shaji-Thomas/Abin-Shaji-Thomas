@@ -5,8 +5,8 @@
 ### 🌱 I’m currently pursuing **BTech in Computer Science and Engineering** with a specialization in **Cyber Security**
   
 ---
-
-![🏆Trophy](https://github-profile-trophy.vercel.app/?username=Abin-Shaji-Thomas)](https://github.com/ryo-ma/github-profile-trophy)
+[🏆Trophy]
+[![🏆Trophy](https://github-profile-trophy.vercel.app/?username=Abin-Shaji-Thomas)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 How to Reach Me:
 - 📱 **Mobile**: [8078071753](tel:8078071753)
