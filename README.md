@@ -12,6 +12,8 @@
 
 ---
 
+![Abin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abin-Shaji-Thomas&show_icons=true&theme=transparent)
+
 ## 📄 **[Click here to view my Resume](https://github.com/Abin-Shaji-Thomas/Abin-Shaji-Thomas/blob/main/Resume.pdf)**
 
 ---
