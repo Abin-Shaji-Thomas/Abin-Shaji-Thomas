@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Abin Shaji Thomas
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Cyber+Security+Researcher;Ethical+Hacker;Engineering+Student;Coding+%26+Breaking+Things+Since+2006" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Cyber+Security+Researcher;Ethical+Hacker;CSE+Student+%7C+Karunya+Institute;GitHub+Addict+%7C+Tech+Explorer;Building+%26+Breaking+in+the+Digital+World" alt="Typing SVG" />
 </p>
 
 
