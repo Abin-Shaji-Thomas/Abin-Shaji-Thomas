@@ -77,7 +77,6 @@ I’m continually learning and upskilling in **Cyber Security** and **Technology
 
 ## 📫 Connect with Me
 
-- 📱 [Call Me](tel:8078071753)
 - 📧 [abinshajiabin2006@gmail.com](mailto:abinshajiabin2006@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/abin-shaji-thomas/)
 - 📸 [Instagram](https://www.instagram.com/abin_shaji_thomas/)
