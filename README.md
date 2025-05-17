@@ -14,7 +14,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,linux,py,redhat,ubuntu,vscode,arduino,bash,c,discord,eclipse,git,github,gmail,instagram,linkedin)](https://skillicons.dev)
 
-![Abin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abin-Shaji-Thomas&show_icons=true&theme=transparent)
+> 📌 **Note**  
+> Above this note, I've listed all the programming languages and technologies I've used in my life so far.
+
+
+![Abin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abin-Shaji-Thomas&show_icons=true&theme=dark)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Password-Strength-Checker-In-Java)](https://github.com/Abin-Shaji-Thomas/Password-Strength-Checker-In-Java)
 
 ## 📄 **[Click here to view my Resume](https://github.com/Abin-Shaji-Thomas/Abin-Shaji-Thomas/blob/main/Resume.pdf)**
 
