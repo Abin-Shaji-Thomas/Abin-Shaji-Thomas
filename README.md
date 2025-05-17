@@ -55,8 +55,6 @@
 
 ---
 
----
-
 ## 📄 Resume
 
 [![📄 View My Resume](https://img.shields.io/badge/Resume-Click%20Here-blue?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/Abin-Shaji-Thomas/Abin-Shaji-Thomas/blob/main/Resume.pdf)
