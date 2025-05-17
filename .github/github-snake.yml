@@ -2,14 +2,17 @@ name: Generate GitHub contributions snake animation
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # runs daily at midnight UTC
-  workflow_dispatch:      # allows manual triggering via GitHub UI
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  workflow_dispatch:      # Allows manual triggering via GitHub UI
 
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
     - name: Generate snake SVGs and GIFs
       uses: Platane/snk@v3
       with:
