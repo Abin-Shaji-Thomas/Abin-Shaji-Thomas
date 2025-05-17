@@ -6,6 +6,8 @@
   
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Abin-Shaji-Thomas)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 📫 How to Reach Me:
 - 📱 **Mobile**: [8078071753](tel:8078071753)
 - ✉️ **Email**: [abinshajiabin2006@gmail.com](mailto:abinshajiabin2006@gmail.com)
