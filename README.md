@@ -92,5 +92,5 @@ I’m continually learning and upskilling in **Cyber Security** and **Technology
 > 🔐 “Cybersecurity isn’t just a field — it’s a responsibility. Let’s secure the future, one byte at a time.”  
 > — *Abin Shaji Thomas*
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 
