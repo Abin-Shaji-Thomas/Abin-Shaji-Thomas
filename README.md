@@ -36,10 +36,10 @@
 ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
 ![Windows](https://skillicons.dev/icons?i=windows)
 ![PowerShell](https://skillicons.dev/icons?i=powershell)
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chrome,excel,android,firefox,authenticator,discordbots,githubcopilot,edge,hackthebox,chatgpt,microsoftcopilot,postman,nvidia,leetcode,tryhackme,terminal,steam,wireshark,virtualbox,vim)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![Eclipse](https://skillicons.dev/icons?i=eclipse)
 ![Arduino](https://skillicons.dev/icons?i=arduino)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chrome,excel,android,firefox,authenticator,discordbots,githubcopilot,edge,hackthebox,chatgpt,microsoftcopilot,postman,nvidia,leetcode,tryhackme,terminal,steam,wireshark,virtualbox,vim)
 
 ### 🔗 Version Control & Collaboration
 ![Git](https://skillicons.dev/icons?i=git)
