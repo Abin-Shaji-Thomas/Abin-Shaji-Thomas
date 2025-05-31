@@ -66,12 +66,8 @@ Here’s a **clean, aesthetic, and well-organized version** of your 🛠️ Tool
 ---
 
 ### 📡 Communication Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=gmail" />
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-  <img src="https://skillicons.dev/icons?i=instagram" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=facebook,outlook,telegram" height="32px" />
-</p>
+
+  ![Communication](https://go-skill-icons.vercel.app/api/icons?i=facebook,outlook,telegram,gmail,linkedin,instagram)
 
 ---
 
