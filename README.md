@@ -31,8 +31,10 @@
 
 ### ⚙️ Tools & Platforms
 ![Linux](https://skillicons.dev/icons?i=linux)
+![Kali](https://skillicons.dev/icons?i=kali)
 ![RedHat](https://skillicons.dev/icons?i=redhat)
 ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
+![Windows](https://skillicons.dev/icons?i=windows)
 ![PowerShell](https://skillicons.dev/icons?i=powershell)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![Eclipse](https://skillicons.dev/icons?i=eclipse)
@@ -42,6 +44,7 @@
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Discord](https://skillicons.dev/icons?i=discord)
+![Linkedin](https://skillicons.dev/icons?i=linkedin)
 
 ### 🌐 Communication
 ![Gmail](https://skillicons.dev/icons?i=gmail)
