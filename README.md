@@ -49,13 +49,8 @@ Here’s a **clean, aesthetic, and well-organized version** of your 🛠️ Tool
 ---
 
 ### 🧰 Tools & IDEs
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://skillicons.dev/icons?i=eclipse" />
-  <img src="https://skillicons.dev/icons?i=arduino" />
-</p>
 
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=chrome,excel,android,firefox,authenticator,discordbots,githubcopilot,edge,hackthebox,chatgpt,microsoftcopilot,postman,nvidia,leetcode,tryhackme,terminal,steam,wireshark,virtualbox,vim)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=chrome,excel,android,firefox,authenticator,discordbots,githubcopilot,edge,hackthebox,chatgpt,microsoftcopilot,postman,nvidia,leetcode,tryhackme,terminal,steam,wireshark,virtualbox,vim,vscode,eclipse,arduino)
 
 
 ---
