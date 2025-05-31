@@ -55,9 +55,8 @@ Here’s a **clean, aesthetic, and well-organized version** of your 🛠️ Tool
   <img src="https://skillicons.dev/icons?i=arduino" />
 </p>
 
-<p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=chrome,excel,android,firefox,authenticator,discordbots,githubcopilot,edge,hackthebox,chatgpt,microsoftcopilot,postman,nvidia,leetcode,tryhackme,terminal,steam,wireshark,virtualbox,vim" height="32px" />
-</p>
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=chrome,excel,android,firefox,authenticator,discordbots,githubcopilot,edge,hackthebox,chatgpt,microsoftcopilot,postman,nvidia,leetcode,tryhackme,terminal,steam,wireshark,virtualbox,vim)
+
 
 ---
 
