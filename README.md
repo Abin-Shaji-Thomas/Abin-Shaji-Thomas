@@ -121,6 +121,10 @@ I’m continually learning and upskilling in **Cyber Security** and **Technology
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Abin-Shaji-Thomas/LibraryManagementSystem)
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=Abin-Shaji-Thomas&label=Visitors&color=0e75b6&style=flat)
+
+
 
 
