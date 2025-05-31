@@ -24,98 +24,68 @@
 Here’s a **clean, aesthetic, and well-organized version** of your 🛠️ Tools & Technologies section with grouped categories, matching icons, spacing, and balance. I've split icons logically and made sure all links are functional and consistent.
 
 ---
-
 ## 🛠️ Tools & Technologies
 
 ### 💻 Programming Languages
-
 <p>
-  <img src="https://skillicons.dev/icons?i=java,py,c,cpp,bash" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=py" />
+  <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=bash" />
 </p>
 
 ---
 
-### 🧰 Operating Systems & Terminals
-
+### 🐧 Operating Systems & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,kali,windows,powershell,vim" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=terminal" height="32px" />
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=kali" />
+  <img src="https://skillicons.dev/icons?i=redhat" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" />
+  <img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://skillicons.dev/icons?i=powershell" />
 </p>
 
 ---
 
-### 🧪 Cybersecurity & Hacking Tools
-
+### 🧰 Tools & IDEs
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=wireshark,tryhackme,hackthebox,authenticator,virtualbox" height="32px" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=eclipse" />
+  <img src="https://skillicons.dev/icons?i=arduino" />
 </p>
 
----
-
-### 🔨 IDEs, Editors & Environments
-
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,arduino,pycharm,androidstudio" />
-</p>
-
----
-
-### ⚙️ Frameworks, Libraries & APIs
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,django,express,fastapi,tailwind,bootstrap" />
-</p>
-
----
-
-### ☁️ Cloud & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,git,github" />
-</p>
-
----
-
-### 📦 Databases & Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres,redis" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=chrome,excel,android,firefox,authenticator,discordbots,githubcopilot,edge,hackthebox,chatgpt,microsoftcopilot,postman,nvidia,leetcode,tryhackme,terminal,steam,wireshark,virtualbox,vim" height="32px" />
 </p>
 
 ---
 
 ### 🔗 Version Control & Collaboration
-
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
-  <img src="https://skillicons.dev/icons?i=discord,linkedin" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=discord" />
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </p>
 
 ---
 
-### 🌐 Browsers, Productivity & Extensions
-
+### 📡 Communication Platforms
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=chrome,firefox,edge,excel,notion,postman,chatgpt,microsoftcopilot,githubcopilot,nvidia" height="32px" />
+  <img src="https://skillicons.dev/icons?i=gmail" />
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+  <img src="https://skillicons.dev/icons?i=instagram" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=facebook,outlook,telegram" height="32px" />
 </p>
 
 ---
 
-### 🔧 Other Tools & Platforms
-
-<p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode,discordbots,steam" height="32px" />
-</p>
-
----
+> 📌 **Note**: These are all the languages and tools I’ve worked with so far in my journey.
 
 > 📌 **Note**: This list evolves as I explore and master new technologies!
 
----
 
-Let me know if you want to add animation, section dividers, gradient styles, or light/dark toggle themes too!
-
-> 📌 **Note**: These are all the languages and tools I’ve worked with so far in my journey.
 
 ---
 
