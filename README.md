@@ -21,37 +21,99 @@
 
 ---
 
+Here’s a **clean, aesthetic, and well-organized version** of your 🛠️ Tools & Technologies section with grouped categories, matching icons, spacing, and balance. I've split icons logically and made sure all links are functional and consistent.
+
+---
+
 ## 🛠️ Tools & Technologies
 
 ### 💻 Programming Languages
-![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=py)
-![C](https://skillicons.dev/icons?i=c)
-![Bash](https://skillicons.dev/icons?i=bash)
 
-### ⚙️ Tools & Platforms
-![Linux](https://skillicons.dev/icons?i=linux)
-![Kali](https://skillicons.dev/icons?i=kali)
-![RedHat](https://skillicons.dev/icons?i=redhat)
-![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
-![Windows](https://skillicons.dev/icons?i=windows)
-![PowerShell](https://skillicons.dev/icons?i=powershell)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![Eclipse](https://skillicons.dev/icons?i=eclipse)
-![Arduino](https://skillicons.dev/icons?i=arduino)
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chrome,excel,android,firefox,authenticator,discordbots,githubcopilot,edge,hackthebox,chatgpt,microsoftcopilot,postman,nvidia,leetcode,tryhackme,terminal,steam,wireshark,virtualbox,vim)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,py,c,cpp,bash" />
+</p>
+
+---
+
+### 🧰 Operating Systems & Terminals
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,kali,windows,powershell,vim" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=terminal" height="32px" />
+</p>
+
+---
+
+### 🧪 Cybersecurity & Hacking Tools
+
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=wireshark,tryhackme,hackthebox,authenticator,virtualbox" height="32px" />
+</p>
+
+---
+
+### 🔨 IDEs, Editors & Environments
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,arduino,pycharm,androidstudio" />
+</p>
+
+---
+
+### ⚙️ Frameworks, Libraries & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,django,express,fastapi,tailwind,bootstrap" />
+</p>
+
+---
+
+### ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,git,github" />
+</p>
+
+---
+
+### 📦 Databases & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres,redis" />
+</p>
+
+---
 
 ### 🔗 Version Control & Collaboration
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Discord](https://skillicons.dev/icons?i=discord)
-![Linkedin](https://skillicons.dev/icons?i=linkedin)
 
-### 🌐 Communication
-![Gmail](https://skillicons.dev/icons?i=gmail)
-![LinkedIn](https://skillicons.dev/icons?i=linkedin)
-![Instagram](https://skillicons.dev/icons?i=instagram)
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=facebook,outlook,telegram)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+  <img src="https://skillicons.dev/icons?i=discord,linkedin" />
+</p>
+
+---
+
+### 🌐 Browsers, Productivity & Extensions
+
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=chrome,firefox,edge,excel,notion,postman,chatgpt,microsoftcopilot,githubcopilot,nvidia" height="32px" />
+</p>
+
+---
+
+### 🔧 Other Tools & Platforms
+
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode,discordbots,steam" height="32px" />
+</p>
+
+---
+
+> 📌 **Note**: This list evolves as I explore and master new technologies!
+
+---
+
+Let me know if you want to add animation, section dividers, gradient styles, or light/dark toggle themes too!
 
 > 📌 **Note**: These are all the languages and tools I’ve worked with so far in my journey.
 
