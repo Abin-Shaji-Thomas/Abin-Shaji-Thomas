@@ -121,13 +121,53 @@ I’m continually learning and upskilling in **Cyber Security** and **Technology
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
-[![Keylogger Software](https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Keylogger-Software&theme=dark)](https://github.com/Abin-Shaji-Thomas/Keylogger-Software)
-[![Text Encryption](https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Text-Encryption-Using-Python&theme=dark)](https://github.com/Abin-Shaji-Thomas/Text-Encryption-Using-Python)
-[![File Encryption and Decryption](https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=File-Encryption-and-Decryption-using-C&theme=dark)](https://github.com/Abin-Shaji-Thomas/File-Encryption-and-Decryption-using-C)
-[![Phishing Link Detection](https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Phishing-Link-Detection&theme=dark)](https://github.com/Abin-Shaji-Thomas/Phishing-Link-Detection)
-[![Password Strength Checker](https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Password-Strength-Checker-In-Java&theme=dark)](https://github.com/Abin-Shaji-Thomas/Password-Strength-Checker-In-Java)
-[![CPU Pipleline](https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=CPU-Pipeline-Simulation-using-Arduino-LCD&theme=dark)](https://github.com/Abin-Shaji-Thomas/CPU-Pipeline-Simulation-using-Arduino-LCD)
-[![Library Managment](https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=LibraryManagementSystem&theme=dark)](https://github.com/Abin-Shaji-Thomas/LibraryManagementSystem)
+## 📌 Pinned Projects
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Abin-Shaji-Thomas/Keylogger-Software">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Keylogger-Software&theme=dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Abin-Shaji-Thomas/Text-Encryption-Using-Python">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Text-Encryption-Using-Python&theme=dark" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Abin-Shaji-Thomas/File-Encryption-and-Decryption-using-C">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=File-Encryption-and-Decryption-using-C&theme=dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Abin-Shaji-Thomas/Phishing-Link-Detection">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Phishing-Link-Detection&theme=dark" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Abin-Shaji-Thomas/Password-Strength-Checker-In-Java">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Password-Strength-Checker-In-Java&theme=dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Abin-Shaji-Thomas/CPU-Pipeline-Simulation-using-Arduino-LCD">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=CPU-Pipeline-Simulation-using-Arduino-LCD&theme=dark" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Abin-Shaji-Thomas/LibraryManagementSystem">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=LibraryManagementSystem&theme=dark" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Abin-Shaji-Thomas&label=Visitors&color=0e75b6&style=flat)
 
