@@ -82,7 +82,7 @@ Here’s a **clean, aesthetic, and well-organized version** of your 🛠️ Tool
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abin-Shaji-Thomas&show_icons=true&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abin-Shaji-Thomas&show_icons=true&theme=dark&rank_icon=github&hide_border=false" />
 </div>
 
 ---
