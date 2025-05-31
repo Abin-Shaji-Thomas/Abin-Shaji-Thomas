@@ -126,7 +126,7 @@ I’m continually learning and upskilling in **Cyber Security** and **Technology
 <table>
   <tr>
     <td>
-      <a href="https://github.com/Abin-Shaji-Thomas/Keylogger-Software">
+      <a href="https://github.com/Abin-Shaji-Thomas/Keylogger-Softwar">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Keylogger-Software&theme=dark" />
       </a>
     </td>
