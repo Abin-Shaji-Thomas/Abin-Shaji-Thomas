@@ -129,6 +129,11 @@ I’m continually learning and upskilling in **Cyber Security** and **Technology
 <table>
   <tr>
     <td>
+      <a href="https://github.com/Abin-Shaji-Thomas/Password-Analyzer">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Password-Analyzer&theme=dark" />
+      </a>
+    </td>
+    <td>
       <a href="https://github.com/Abin-Shaji-Thomas/Keylogger-Software">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Keylogger-Software&theme=dark" />
       </a>
