@@ -84,8 +84,9 @@ Here’s a **clean, aesthetic, and well-organized version** of your 🛠️ Tool
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abin-Shaji-Thomas&show_icons=true&theme=dark&rank_icon=github&hide_border=false" />
 </div>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abin-shaji-thomas&" alt="abin-shaji-thomas" /></p>
+<div>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abin-shaji-thomas&theme=dark&" alt="abin-shaji-thomas" /></p
+<div>
 
 ---
 
