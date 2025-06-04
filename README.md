@@ -23,8 +23,6 @@
 
 ---
 
-## 🛠️ Tools & Technologies
-
 ### 💻 Programming Languages
 ![Java](https://skillicons.dev/icons?i=java)
 ![Python](https://skillicons.dev/icons?i=py)
@@ -39,14 +37,12 @@
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![Eclipse](https://skillicons.dev/icons?i=eclipse)
 ![Arduino](https://skillicons.dev/icons?i=arduino)
-
-<!-- Newly Added Icons with SVG fallback (app icon style) -->
-<img src="https://raw.githubusercontent.com/Lissy93/awesome-privacy/main/icons/wireshark.svg" height="40" />
-<img src="https://raw.githubusercontent.com/Lissy93/awesome-privacy/main/icons/burpsuite.svg" height="40" />
-<img src="https://raw.githubusercontent.com/Lissy93/awesome-privacy/main/icons/kali-linux.svg" height="40" />
-<img src="https://raw.githubusercontent.com/Lissy93/awesome-privacy/main/icons/nmap.svg" height="40" />
-<img src="https://raw.githubusercontent.com/Lissy93/awesome-privacy/main/icons/vmware.svg" height="40" />
-<img src="https://raw.githubusercontent.com/Lissy93/awesome-privacy/main/icons/virtualbox.svg" height="40" />
+![Wireshark](https://raw.githubusercontent.com/LelouchFR/skill-icons/main/icons/wireshark.svg)
+![Burp Suite](https://raw.githubusercontent.com/LelouchFR/skill-icons/main/icons/burpsuite.svg)
+![Kali Linux](https://raw.githubusercontent.com/LelouchFR/skill-icons/main/icons/kali.svg)
+![Nmap](https://raw.githubusercontent.com/LelouchFR/skill-icons/main/icons/nmap.svg)
+![VMware](https://raw.githubusercontent.com/LelouchFR/skill-icons/main/icons/vmware.svg)
+![VirtualBox](https://raw.githubusercontent.com/LelouchFR/skill-icons/main/icons/virtualbox.svg)
 
 ### 🔗 Version Control & Collaboration
 ![Git](https://skillicons.dev/icons?i=git)
@@ -57,6 +53,7 @@
 ![Gmail](https://skillicons.dev/icons?i=gmail)
 ![LinkedIn](https://skillicons.dev/icons?i=linkedin)
 ![Instagram](https://skillicons.dev/icons?i=instagram)
+
 
 > 📌 **Note**: These are all the languages and tools I’ve worked with so far in my journey.
 
