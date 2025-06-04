@@ -21,71 +21,41 @@
 
 ---
 
-Here’s a **clean, aesthetic, and well-organized version** of your 🛠️ Tools & Technologies section with grouped categories, matching icons, spacing, and balance. I've split icons logically and made sure all links are functional and consistent.
-
----
 ## 🛠️ Tools & Technologies
 
 ### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=py" />
-  <img src="https://skillicons.dev/icons?i=c" />
-  <img src="https://skillicons.dev/icons?i=bash" />
-</p>
+![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=py)
+![C](https://skillicons.dev/icons?i=c)
+![Bash](https://skillicons.dev/icons?i=bash)
 
----
-
-### 🐧 Operating Systems & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=linux" />
-  <img src="https://skillicons.dev/icons?i=kali" />
-  <img src="https://skillicons.dev/icons?i=redhat" />
-  <img src="https://skillicons.dev/icons?i=ubuntu" />
-  <img src="https://skillicons.dev/icons?i=windows" />
-  <img src="https://skillicons.dev/icons?i=powershell" />
-</p>
-
----
-
-### 🧰 Tools & IDEs
-
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=chrome,excel,android,firefox,authenticator,discordbots,githubcopilot,edge,hackthebox,chatgpt,microsoftcopilot,postman,nvidia,leetcode,tryhackme,terminal,steam,wireshark,virtualbox,vim,vscode,eclipse,arduino)
-
-
----
+### ⚙️ Tools & Platforms
+![Linux](https://skillicons.dev/icons?i=linux)
+![RedHat](https://skillicons.dev/icons?i=redhat)
+![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
+![PowerShell](https://skillicons.dev/icons?i=powershell)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Eclipse](https://skillicons.dev/icons?i=eclipse)
+![Arduino](https://skillicons.dev/icons?i=arduino)
 
 ### 🔗 Version Control & Collaboration
-<p>
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=discord" />
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</p>
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Discord](https://skillicons.dev/icons?i=discord)
 
----
-
-### 📡 Communication Platforms
-
-  ![Communication](https://go-skill-icons.vercel.app/api/icons?i=facebook,outlook,telegram,gmail,linkedin,instagram)
-
----
+### 🌐 Communication
+![Gmail](https://skillicons.dev/icons?i=gmail)
+![LinkedIn](https://skillicons.dev/icons?i=linkedin)
+![Instagram](https://skillicons.dev/icons?i=instagram)
 
 > 📌 **Note**: These are all the languages and tools I’ve worked with so far in my journey.
-
-> 📌 **Note**: This list evolves as I explore and master new technologies!
-
-
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abin-Shaji-Thomas&show_icons=true&theme=dark&rank_icon=github&hide_border=false" />
-</div>
-<div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abin-shaji-thomas&theme=dark&" alt="abin-shaji-thomas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abin-Shaji-Thomas&show_icons=true&theme=dark&hide_border=false" />
 </div>
 
 ---
@@ -113,9 +83,9 @@ I’m continually learning and upskilling in **Cyber Security** and **Technology
 ## 📫 Connect with Me
 
 - 📧 [abinshajiabin2006@gmail.com](mailto:abinshajiabin2006@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/abin-shaji-thomas/)
-- 📸 [Instagram](https://www.instagram.com/abin_shaji_thomas/)
-- 💻 [GitHub](https://github.com/Abin-Shaji-Thomas)
+- 💼 [![LinkedIn Badge](https://www.linkedin.com/in/abin-shaji-thomas/)]
+- 📸 [![Instagram Badge](https://www.instagram.com/abin_shaji_thomas/)]
+- 💻 [![GitHub Badge](https://github.com/Abin-Shaji-Thomas)]
 
 ---
 
@@ -123,62 +93,5 @@ I’m continually learning and upskilling in **Cyber Security** and **Technology
 > — *Abin Shaji Thomas*
 
 ![](./profile-3d-contrib/profile-night-green.svg)
-
-## 📌 Pinned Projects
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Abin-Shaji-Thomas/Password-Analyzer">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Password-Analyzer&theme=dark" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Abin-Shaji-Thomas/Keylogger-Software">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Keylogger-Software&theme=dark" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Abin-Shaji-Thomas/Text-Encryption-Using-Python">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Text-Encryption-Using-Python&theme=dark" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Abin-Shaji-Thomas/File-Encryption-and-Decryption-using-C">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=File-Encryption-and-Decryption-using-C&theme=dark" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Abin-Shaji-Thomas/Phishing-Link-Detection">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Phishing-Link-Detection&theme=dark" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Abin-Shaji-Thomas/Password-Strength-Checker-In-Java">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Password-Strength-Checker-In-Java&theme=dark" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Abin-Shaji-Thomas/CPU-Pipeline-Simulation-using-Arduino-LCD">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=CPU-Pipeline-Simulation-using-Arduino-LCD&theme=dark" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Abin-Shaji-Thomas/LibraryManagementSystem">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=LibraryManagementSystem&theme=dark" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Abin-Shaji-Thomas&label=Visitors&color=0e75b6&style=flat)
-
-
 
 
