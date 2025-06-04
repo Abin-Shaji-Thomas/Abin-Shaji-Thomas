@@ -57,7 +57,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abin-Shaji-Thomas&show_icons=true&theme=dark&hide_border=false" />
 </div>
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats" />
+</div>
 ---
 
 ## 📄 Resume
