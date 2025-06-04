@@ -55,7 +55,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abin-Shaji-Thomas&show_icons=true&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abin-Shaji-Thomas&show_icons=true&theme=dark&hide_border=false&rank_icon=github" />
 </div>
 <div align="center">
     <img src="(https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)" />
