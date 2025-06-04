@@ -32,25 +32,21 @@
 ![Bash](https://skillicons.dev/icons?i=bash)
 
 ### ⚙️ Tools & Platforms
+![Linux](https://skillicons.dev/icons?i=linux)
+![RedHat](https://skillicons.dev/icons?i=redhat)
+![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
+![PowerShell](https://skillicons.dev/icons?i=powershell)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Eclipse](https://skillicons.dev/icons?i=eclipse)
+![Arduino](https://skillicons.dev/icons?i=arduino)
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/linux/white/000000" height="40" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420/000000" height="40" />
-  <img src="https://cdn.simpleicons.org/windows/0078D6/000000" height="40" />
-  <img src="https://cdn.simpleicons.org/redhat/EE0000/000000" height="40" />
-  <img src="https://cdn.simpleicons.org/powershell/5391FE/000000" height="40" />
-  <img src="https://cdn.simpleicons.org/arduino/00979D/000000" height="40" />
-  <img src="https://cdn.simpleicons.org/vscode/007ACC/000000" height="40" />
-  <img src="https://cdn.simpleicons.org/eclipseide/2C2255/000000" height="40" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37/000000" height="40" />
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7/000000" height="40" />
-  <img src="https://cdn.simpleicons.org/virtualbox/183A61/000000" height="40" />
-  <img src="https://cdn.simpleicons.org/vmware/607078/000000" height="40" />
-  <img src="https://cdn.simpleicons.org/burpsuite/FF7043/000000" height="40" />
-  <img src="https://cdn.simpleicons.org/nmap/004289/000000" height="40" />
-</p>
-
-
+<!-- Newly Added Icons with SVG fallback (app icon style) -->
+<img src="https://raw.githubusercontent.com/Lissy93/awesome-privacy/main/icons/wireshark.svg" height="40" />
+<img src="https://raw.githubusercontent.com/Lissy93/awesome-privacy/main/icons/burpsuite.svg" height="40" />
+<img src="https://raw.githubusercontent.com/Lissy93/awesome-privacy/main/icons/kali-linux.svg" height="40" />
+<img src="https://raw.githubusercontent.com/Lissy93/awesome-privacy/main/icons/nmap.svg" height="40" />
+<img src="https://raw.githubusercontent.com/Lissy93/awesome-privacy/main/icons/vmware.svg" height="40" />
+<img src="https://raw.githubusercontent.com/Lissy93/awesome-privacy/main/icons/virtualbox.svg" height="40" />
 
 ### 🔗 Version Control & Collaboration
 ![Git](https://skillicons.dev/icons?i=git)
