@@ -33,20 +33,23 @@
 
 ### ⚙️ Tools & Platforms
 
-![Linux](https://skillicons.dev/icons?i=linux)
-![RedHat](https://skillicons.dev/icons?i=redhat)
-![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
-![Windows](https://skillicons.dev/icons?i=windows)
-![PowerShell](https://skillicons.dev/icons?i=powershell)
-![Arduino](https://skillicons.dev/icons?i=arduino)
-![Eclipse](https://skillicons.dev/icons?i=eclipse)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![Postman](https://skillicons.dev/icons?i=postman)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004289?style=for-the-badge&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-ff7043?style=for-the-badge&logo=burpsuite&logoColor=white)
+<p align="left">
+  <img src="https://cdn.simpleicons.org/linux/white/000000" height="40" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420/000000" height="40" />
+  <img src="https://cdn.simpleicons.org/windows/0078D6/000000" height="40" />
+  <img src="https://cdn.simpleicons.org/redhat/EE0000/000000" height="40" />
+  <img src="https://cdn.simpleicons.org/powershell/5391FE/000000" height="40" />
+  <img src="https://cdn.simpleicons.org/arduino/00979D/000000" height="40" />
+  <img src="https://cdn.simpleicons.org/vscode/007ACC/000000" height="40" />
+  <img src="https://cdn.simpleicons.org/eclipseide/2C2255/000000" height="40" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37/000000" height="40" />
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7/000000" height="40" />
+  <img src="https://cdn.simpleicons.org/virtualbox/183A61/000000" height="40" />
+  <img src="https://cdn.simpleicons.org/vmware/607078/000000" height="40" />
+  <img src="https://cdn.simpleicons.org/burpsuite/FF7043/000000" height="40" />
+  <img src="https://cdn.simpleicons.org/nmap/004289/000000" height="40" />
+</p>
+
 
 
 ### 🔗 Version Control & Collaboration
