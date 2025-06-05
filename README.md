@@ -106,3 +106,53 @@ I’m continually learning and upskilling in **Cyber Security** and **Technology
 <p align="center">
   <img src="https://raw.githubusercontent.com/Abin-Shaji-Thomas/Abin-Shaji-Thomas/main/profile-3d-contrib/profile-night-green.svg" />
 </p>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Abin-Shaji-Thomas/Password-Analyzer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Password-Analyzer" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Abin-Shaji-Thomas/Keylogger-Software">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Keylogger-Software" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Abin-Shaji-Thomas/Text-Encryption-Using-Python">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Text-Encryption-Using-Python" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Abin-Shaji-Thomas/File-Encryption-and-Decryption-using-C">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=File-Encryption-and-Decryption-using-C" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Abin-Shaji-Thomas/Phishing-Link-Detection">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Phishing-Link-Detection" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Abin-Shaji-Thomas/CPU-Pipeline-Simulation-using-Arduino-LCD">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=CPU-Pipeline-Simulation-using-Arduino-LCD" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Abin-Shaji-Thomas/LibraryManagementSystem">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=LibraryManagementSystem" />
+      </a>
+    </td>
+    <td>
+      <!-- Empty for symmetry -->
+    </td>
+  </tr>
+</table>
+
