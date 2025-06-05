@@ -111,48 +111,46 @@ I’m continually learning and upskilling in **Cyber Security** and **Technology
   <tr>
     <td>
       <a href="https://github.com/Abin-Shaji-Thomas/Password-Analyzer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Password-Analyzer" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Password-Analyzer&theme=dark" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Abin-Shaji-Thomas/Keylogger-Software">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Keylogger-Software" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Keylogger-Software&theme=dark" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="https://github.com/Abin-Shaji-Thomas/Text-Encryption-Using-Python">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Text-Encryption-Using-Python" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Abin-Shaji-Thomas/File-Encryption-and-Decryption-using-C">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=File-Encryption-and-Decryption-using-C" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Text-Encryption-Using-Python&theme=dark" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
+      <a href="https://github.com/Abin-Shaji-Thomas/File-Encryption-and-Decryption-using-C">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=File-Encryption-and-Decryption-using-C&theme=dark" />
+      </a>
+    </td>
+    <td>
       <a href="https://github.com/Abin-Shaji-Thomas/Phishing-Link-Detection">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Phishing-Link-Detection" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Phishing-Link-Detection&theme=dark" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Abin-Shaji-Thomas/CPU-Pipeline-Simulation-using-Arduino-LCD">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=CPU-Pipeline-Simulation-using-Arduino-LCD" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=CPU-Pipeline-Simulation-using-Arduino-LCD&theme=dark" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/Abin-Shaji-Thomas/LibraryManagementSystem">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=LibraryManagementSystem" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=LibraryManagementSystem&theme=dark" />
       </a>
     </td>
-    <td>
-      <!-- Empty for symmetry -->
-    </td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
+
 
