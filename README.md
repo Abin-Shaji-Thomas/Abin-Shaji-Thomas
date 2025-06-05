@@ -107,6 +107,8 @@ I’m continually learning and upskilling in **Cyber Security** and **Technology
   <img src="https://raw.githubusercontent.com/Abin-Shaji-Thomas/Abin-Shaji-Thomas/main/profile-3d-contrib/profile-night-green.svg" />
 </p>
 
+![](https://komarev.com/ghpvc/?username=Abin-Shaji-Thomas&style=flat-sqaure&abbreviated=true)
+
 <table>
   <tr>
     <td>
