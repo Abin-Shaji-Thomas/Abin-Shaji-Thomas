@@ -103,11 +103,12 @@ I’m continually learning and upskilling in **Cyber Security** and **Technology
 > 🔐 “Cybersecurity isn’t just a field — it’s a responsibility. Let’s secure the future, one byte at a time.”  
 > — *Abin Shaji Thomas*
 
+![](https://komarev.com/ghpvc/?username=Abin-Shaji-Thomas&style=flat-sqaure&abbreviated=true&base=1000)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Abin-Shaji-Thomas/Abin-Shaji-Thomas/main/profile-3d-contrib/profile-night-green.svg" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=Abin-Shaji-Thomas&style=flat-sqaure&abbreviated=true)
 
 <table>
   <tr>
