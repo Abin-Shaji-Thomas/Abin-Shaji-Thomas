@@ -31,14 +31,13 @@
 ### ⚙️ Tools, Platforms, Utilities & Cybersecurity
 ![Skills](https://go-skill-icons.vercel.app/api/icons?i=arduino,azure,chatgpt,deepseek,ollama,huggingface,authenticator,tryhackme,hackthebox,kali,wireshark,terminal,googlecolab,jupyter,postman,powershell,virtualbox,vscode,gnome,ubuntu,linux,debian,redhat,nvidia,eclipse,cursor,chrome,firefox,edge,duckduckgo,opera,tor,audacity,canva,lightroom,obs,onedrive,outlook,powerpoint,excel,word,libreoffice,x&perline=13)
 
-<img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/icons/burpsuite.svg" width="40"/>
 
 ---
 
 ### 🌐 Collaboration & Community
 ![Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,discord,discordbots,gmail,linkedin,instagram,telegram,facebook,hackerrank,leetcode,kaggle,gemini&perline=13)
 
----
+
 
 > 📌 **Note**: This includes all the languages, tools, platforms, and technologies I’ve worked with in my cybersecurity and development journey.
 
