@@ -24,26 +24,23 @@
 ---
 
 ### 💻 Programming Languages
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,python,c,bash)
+![Skills](https://go-skill-icons.vercel.app/api/icons?i=java,python,c,bash,html,regex)
 
-### ⚙️ Tools & Platforms
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,redhat,ubuntu,powershell,vscode,ecliple,arduino,wireshark,kali,nmap,vmware,virtualbox)
+---
 
-![Burp Suite](https://raw.githubusercontent.com/LelouchFR/skill-icons/main/icons/burpsuite.svg)
+### ⚙️ Tools, Platforms, Utilities & Cybersecurity
+![Skills](https://go-skill-icons.vercel.app/api/icons?i=arduino,azure,chatgpt,deepseek,ollama,huggingface,authenticator,tryhackme,hackthebox,kali,wireshark,terminal,googlecolab,juypter,postman,powershell,virtualbox,vscode,gnome,ubuntu,linux,debian,redhat,nvidia,eclipse,curson,chrome,firefox,edge,duckduckgo,opera,tor,audacity,canva,lightroom,obs,onedrive,outlook,powerpoint,excel,word,libreoffice,x)
 
+<img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/icons/burpsuite.svg" width="40"/>
 
-### 🔗 Version Control & Collaboration
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Discord](https://skillicons.dev/icons?i=discord)
+---
 
-### 🌐 Communication
-![Gmail](https://skillicons.dev/icons?i=gmail)
-![LinkedIn](https://skillicons.dev/icons?i=linkedin)
-![Instagram](https://skillicons.dev/icons?i=instagram)
+### 🌐 Collaboration & Community
+![Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,discord,discordbots,gmail,linkedin,instagram,telegram,facebook,hackerrank,leetcode,kaggle,gemini)
 
+---
 
-> 📌 **Note**: These are all the languages and tools I’ve worked with so far in my journey.
+> 📌 **Note**: This includes all the languages, tools, platforms, and technologies I’ve worked with in my cybersecurity and development journey.
 
 ---
 
