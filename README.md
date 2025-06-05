@@ -24,10 +24,7 @@
 ---
 
 ### 💻 Programming Languages
-![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=py)
-![C](https://skillicons.dev/icons?i=c)
-![Bash](https://skillicons.dev/icons?i=bash)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,python,c,bash)
 
 ### ⚙️ Tools & Platforms
 ![Linux](https://skillicons.dev/icons?i=linux)
