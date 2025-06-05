@@ -90,7 +90,7 @@ I’m continually learning and upskilling in **Cyber Security** and **Technology
 > — *Abin Shaji Thomas*
 
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 
 
 <table>
