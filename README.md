@@ -29,7 +29,7 @@
 ---
 
 ### ⚙️ Tools, Platforms, Utilities & Cybersecurity
-![Skills](https://go-skill-icons.vercel.app/api/icons?i=arduino,azure,chatgpt,deepseek,ollama,huggingface,authenticator,tryhackme,hackthebox,kali,wireshark,terminal,googlecolab,jupyter,postman,powershell,virtualbox,vscode,gnome,ubuntu,linux,debian,redhat,nvidia,eclipse,cursor,chrome,firefox,edge,duckduckgo,opera,tor,audacity,canva,lightroom,obs,onedrive,outlook,powerpoint,excel,word,libreoffice,x&perline=13)
+![Skills](https://go-skill-icons.vercel.app/api/icons?i=arduino,azure,burpsuite,chatgpt,deepseek,ollama,huggingface,authenticator,tryhackme,hackthebox,kali,mega,wireshark,terminal,googlecolab,jupyter,postman,powershell,virtualbox,vscode,gnome,ubuntu,linux,debian,redhat,nvidia,eclipse,cursor,chrome,firefox,edge,duckduckgo,opera,tor,audacity,canva,lightroom,obs,onedrive,outlook,powerpoint,excel,word,libreoffice,portswigger,x&perline=13)
 
 
 ---
