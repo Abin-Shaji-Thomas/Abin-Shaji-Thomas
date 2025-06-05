@@ -27,19 +27,10 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,python,c,bash)
 
 ### ⚙️ Tools & Platforms
-![Linux](https://skillicons.dev/icons?i=linux)
-![RedHat](https://skillicons.dev/icons?i=redhat)
-![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
-![PowerShell](https://skillicons.dev/icons?i=powershell)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![Eclipse](https://skillicons.dev/icons?i=eclipse)
-![Arduino](https://skillicons.dev/icons?i=arduino)
-![Wireshark](https://raw.githubusercontent.com/LelouchFR/skill-icons/main/icons/wireshark.svg)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,redhat,ubuntu,powershell,vscode,ecliple,arduino,wireshark,kali,nmap,vmware,virtualbox)
+
 ![Burp Suite](https://raw.githubusercontent.com/LelouchFR/skill-icons/main/icons/burpsuite.svg)
-![Kali Linux](https://raw.githubusercontent.com/LelouchFR/skill-icons/main/icons/kali.svg)
-![Nmap](https://raw.githubusercontent.com/LelouchFR/skill-icons/main/icons/nmap.svg)
-![VMware](https://raw.githubusercontent.com/LelouchFR/skill-icons/main/icons/vmware.svg)
-![VirtualBox](https://raw.githubusercontent.com/LelouchFR/skill-icons/main/icons/virtualbox.svg)
+
 
 ### 🔗 Version Control & Collaboration
 ![Git](https://skillicons.dev/icons?i=git)
