@@ -123,6 +123,11 @@ I’m continually learning and upskilling in **Cyber Security** and **Technology
       </a>
     </td>
     <td>
+      <a href=https://github.com/Abin-Shaji-Thomas/Password-Strength-Checker-In-Java">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Password-Strength-Checker-In-Java&theme=dark" />
+      </a>
+    </td>
+    <td>
       <a href="https://github.com/Abin-Shaji-Thomas/CPU-Pipeline-Simulation-using-Arduino-LCD">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=CPU-Pipeline-Simulation-using-Arduino-LCD&theme=dark" />
       </a>
