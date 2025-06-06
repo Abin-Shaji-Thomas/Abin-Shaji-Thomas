@@ -127,13 +127,13 @@ I’m continually learning and upskilling in **Cyber Security** and **Technology
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Password-Strength-Checker-In-Java&theme=dark" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td>
       <a href="https://github.com/Abin-Shaji-Thomas/CPU-Pipeline-Simulation-using-Arduino-LCD">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=CPU-Pipeline-Simulation-using-Arduino-LCD&theme=dark" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="https://github.com/Abin-Shaji-Thomas/LibraryManagementSystem">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=LibraryManagementSystem&theme=dark" />
