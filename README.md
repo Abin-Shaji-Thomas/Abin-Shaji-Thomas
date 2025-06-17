@@ -9,7 +9,7 @@
 ## 📘 About Me
 
 - 😄 Pronouns: **He/Him**  
-- 👀 Passionate about **Cyber Security** and **Ethical Hacking**  
+- 👀 Passionate about **Cyber Security** and **Ethical Hacking** 
 - 🎓 Pursuing **B.Tech in Computer Science and Engineering**, specializing in **Cyber Security**  
 - 🚀 I love building, breaking, and securing things with code and curiosity!
 
