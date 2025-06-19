@@ -53,7 +53,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abin-Shaji-Thomas&layout=compact&theme=dark" />
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abin-Shaji-Thomas&theme=dark&exclude_days=Sun)](https://git.io/streak-stats)
 
 ---
 
