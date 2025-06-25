@@ -55,7 +55,9 @@
 
 
 ---
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3621962" style='border:none;'></iframe>
+
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ABINSHAJI.png)](https://tryhackme.com/p/AbinShajiThomas)
+
 ---
 
 ## 📄 Resume
