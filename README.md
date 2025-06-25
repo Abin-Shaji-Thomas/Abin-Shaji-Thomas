@@ -15,13 +15,14 @@
 
 ---
 
-## 🏆 Trophy Case
+## 🛡️ TryHackMe Progress
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abin-Shaji-Thomas&theme=darkhub&row=1&margin-w=15&margin-h=15" />
-</div>
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ABINSHAJI.png)](https://tryhackme.com/p/AbinShajiThomas)
+
+> 🧠 Click the badge to view my profile, completed rooms, and streak progress!
 
 ---
+
 
 ### 💻 Programming Languages
 ![Skills](https://go-skill-icons.vercel.app/api/icons?i=java,python,c,bash,html,regex&perline=13)
@@ -56,9 +57,6 @@
 
 ---
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ABINSHAJI.png)](https://tryhackme.com/p/AbinShajiThomas)
-
----
 
 ## 📄 Resume
 
@@ -76,6 +74,14 @@ I’m continually learning and upskilling in **Cyber Security** and **Technology
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Microsoft%20Secuirty%2CCompliance%20and%20Identity%20Fundamentals%20Badge.png?raw=true" width="200" />
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco%20Introduction%20to%20Cybersecuirty%20Badge.png?raw=true" width="200" />
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/IBM%20web%20development%20Fundamentals%20Badge.png?raw=true" width="200" />
+</div>
+
+---
+
+## 🏆 Trophy Case
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abin-Shaji-Thomas&theme=darkhub&row=1&margin-w=15&margin-h=15" />
 </div>
 
 ---
