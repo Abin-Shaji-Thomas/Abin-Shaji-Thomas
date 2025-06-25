@@ -55,6 +55,15 @@
 
 
 ---
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abin-Shaji-Thomas&show_icons=true&theme=dark&hide_border=false&rank_icon=github" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abin-Shaji-Thomas&theme=dark&exclude_days=Sun" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abin-Shaji-Thomas&layout=compact&theme=dark" />
+</div>
 
 
 ## 📄 Resume
