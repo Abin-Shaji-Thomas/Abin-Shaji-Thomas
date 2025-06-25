@@ -17,7 +17,7 @@
 
 ## 🛡️ TryHackMe Progress
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ABINSHAJI.png)](https://tryhackme.com/p/AbinShajiThomas)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ABINSHAJI.png)](https://tryhackme.com/p/ABINSHAJI)
 
 > 🧠 Click the badge to view my profile, completed rooms, and streak progress!
 
