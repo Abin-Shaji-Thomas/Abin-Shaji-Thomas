@@ -64,9 +64,14 @@
 
 ## 🏅 Certifications & Badges
 
-I’m continually learning and upskilling in **Cyber Security** and **Technology**. Check out my achievements:
+🎯 **15+ high-value certifications** and **industry-recognized badges** from Microsoft, Cisco, IBM, RedHat, and more.
 
-[🔗 View Certifications & Badges](https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges)
+📌 Highlights:
+- ✅ Red Users Cybersecurity Internship Certificate  
+- ✅ Mastercard Cybersecurity Job Simulation on Forage  
+- ✅ Microsoft SC-900, Cisco Cybersecurity Essentials, IBM Web Dev  
+
+🔗 **[View Full Achievements Repository →](https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges)**
 
 <div align="center">
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Microsoft%20Secuirty%2CCompliance%20and%20Identity%20Fundamentals%20Badge.png?raw=true" width="200" />
