@@ -17,7 +17,7 @@
 
 ## 🛡️ TryHackMe Progress
  
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ABINSHAJI.png)](https://tryhackme.com/p/ABINSHAJI)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ABINSHAJI.png)](https://tryhackme.com/p/ABINSHAJI) 
 
 
 ---
