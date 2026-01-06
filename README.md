@@ -46,11 +46,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abin-Shaji-Thomas&show_icons=true&theme=dark&hide_border=false&rank_icon=github&cache_seconds=1800" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abin-Shaji-Thomas&theme=dark&hide_border=false&exclude_days=Sun" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abin-Shaji-Thomas&layout=compact&theme=dark&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abin-Shaji-Thomas&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Abin-Shaji-Thomas&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abin-Shaji-Thomas&layout=compact&theme=dark&hide_border=false&langs_count=8" alt="Top Languages" />
 </div>
 
 
@@ -84,7 +88,7 @@
 ## 🏆 Trophy Case
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abin-Shaji-Thomas&theme=darkhub&row=1&column=7&margin-w=15&margin-h=15&no-frame=false&no-bg=false" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Abin-Shaji-Thomas&theme=darkhub&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -107,55 +111,21 @@
 ![](./profile-3d-contrib/profile-night-green.svg)
 
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Abin-Shaji-Thomas/Password-Analyzer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Password-Analyzer&theme=dark&cache_seconds=86400" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Abin-Shaji-Thomas/Keylogger-Software">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Keylogger-Software&theme=dark&cache_seconds=86400" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Abin-Shaji-Thomas/Text-Encryption-Using-Python">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Text-Encryption-Using-Python&theme=dark&cache_seconds=86400" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Abin-Shaji-Thomas/File-Encryption-and-Decryption-using-C">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=File-Encryption-and-Decryption-using-C&theme=dark&cache_seconds=86400" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Abin-Shaji-Thomas/Phishing-Link-Detection">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Phishing-Link-Detection&theme=dark&cache_seconds=86400" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Abin-Shaji-Thomas/Password-Strength-Checker-In-Java">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Password-Strength-Checker-In-Java&theme=dark&cache_seconds=86400" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Abin-Shaji-Thomas/CPU-Pipeline-Simulation-using-Arduino-LCD">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=CPU-Pipeline-Simulation-using-Arduino-LCD&theme=dark&cache_seconds=86400" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Abin-Shaji-Thomas/LibraryManagementSystem">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=LibraryManagementSystem&theme=dark&cache_seconds=86400" />
-      </a>
-    </td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+## 🔥 Featured Projects
+
+<div align="center">
+
+[![Password Analyzer](https://img.shields.io/badge/🔐_Password_Analyzer-View_Project-green?style=for-the-badge)](https://github.com/Abin-Shaji-Thomas/Password-Analyzer)
+[![Keylogger Software](https://img.shields.io/badge/⌨️_Keylogger_Software-View_Project-blue?style=for-the-badge)](https://github.com/Abin-Shaji-Thomas/Keylogger-Software)
+[![Text Encryption](https://img.shields.io/badge/🔒_Text_Encryption-View_Project-red?style=for-the-badge)](https://github.com/Abin-Shaji-Thomas/Text-Encryption-Using-Python)
+
+[![File Encryption](https://img.shields.io/badge/📁_File_Encryption_(C)-View_Project-orange?style=for-the-badge)](https://github.com/Abin-Shaji-Thomas/File-Encryption-and-Decryption-using-C)
+[![Phishing Detection](https://img.shields.io/badge/🎣_Phishing_Detection-View_Project-yellow?style=for-the-badge)](https://github.com/Abin-Shaji-Thomas/Phishing-Link-Detection)
+[![Password Checker](https://img.shields.io/badge/✅_Password_Checker_(Java)-View_Project-purple?style=for-the-badge)](https://github.com/Abin-Shaji-Thomas/Password-Strength-Checker-In-Java)
+
+[![CPU Pipeline](https://img.shields.io/badge/🔧_CPU_Pipeline_Simulation-View_Project-cyan?style=for-the-badge)](https://github.com/Abin-Shaji-Thomas/CPU-Pipeline-Simulation-using-Arduino-LCD)
+[![Library System](https://img.shields.io/badge/📚_Library_Management-View_Project-pink?style=for-the-badge)](https://github.com/Abin-Shaji-Thomas/LibraryManagementSystem)
+
+</div>
 
 
