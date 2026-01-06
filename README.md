@@ -46,11 +46,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abin-Shaji-Thomas&show_icons=true&theme=dark&hide_border=false&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abin-Shaji-Thomas&show_icons=true&theme=dark&hide_border=false&rank_icon=github&cache_seconds=1800" />
   <br>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Abin-Shaji-Thomas&theme=dark&exclude_days=Sun" alt="GitHub Streak" /></a> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abin-Shaji-Thomas&theme=dark&hide_border=false&exclude_days=Sun" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abin-Shaji-Thomas&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abin-Shaji-Thomas&layout=compact&theme=dark&cache_seconds=1800" />
 </div>
 
 
@@ -84,7 +84,7 @@
 ## 🏆 Trophy Case
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abin-Shaji-Thomas&theme=darkhub&row=1&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Abin-Shaji-Thomas&theme=darkhub&row=1&column=7&margin-w=15&margin-h=15&no-frame=false&no-bg=false" />
 </div>
 
 ---
@@ -111,46 +111,46 @@
   <tr>
     <td>
       <a href="https://github.com/Abin-Shaji-Thomas/Password-Analyzer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Password-Analyzer&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Password-Analyzer&theme=dark&cache_seconds=86400" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Abin-Shaji-Thomas/Keylogger-Software">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Keylogger-Software&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Keylogger-Software&theme=dark&cache_seconds=86400" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Abin-Shaji-Thomas/Text-Encryption-Using-Python">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Text-Encryption-Using-Python&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Text-Encryption-Using-Python&theme=dark&cache_seconds=86400" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/Abin-Shaji-Thomas/File-Encryption-and-Decryption-using-C">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=File-Encryption-and-Decryption-using-C&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=File-Encryption-and-Decryption-using-C&theme=dark&cache_seconds=86400" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Abin-Shaji-Thomas/Phishing-Link-Detection">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Phishing-Link-Detection&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Phishing-Link-Detection&theme=dark&cache_seconds=86400" />
       </a>
     </td>
     <td>
-      <a href=https://github.com/Abin-Shaji-Thomas/Password-Strength-Checker-In-Java">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Password-Strength-Checker-In-Java&theme=dark" />
+      <a href="https://github.com/Abin-Shaji-Thomas/Password-Strength-Checker-In-Java">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=Password-Strength-Checker-In-Java&theme=dark&cache_seconds=86400" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/Abin-Shaji-Thomas/CPU-Pipeline-Simulation-using-Arduino-LCD">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=CPU-Pipeline-Simulation-using-Arduino-LCD&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=CPU-Pipeline-Simulation-using-Arduino-LCD&theme=dark&cache_seconds=86400" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Abin-Shaji-Thomas/LibraryManagementSystem">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=LibraryManagementSystem&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abin-Shaji-Thomas&repo=LibraryManagementSystem&theme=dark&cache_seconds=86400" />
       </a>
     </td>
     <td></td>
