@@ -68,19 +68,22 @@
 
 ## 🏅 Certifications & Badges
 
-🎯 **15+ high-value certifications** and **industry-recognized badges** from Microsoft, Cisco, IBM, RedHat, and more.
+🎯 **55+ high-value certifications** and **13 industry-recognized badges** from Microsoft, Cisco, IBM, Infosys, RedHat, and more.
 
 📌 Highlights:
-- ✅ Red Users Cybersecurity Internship Certificate  
+- ✅ Cisco Virtual Internship Certificate (2025)
+- ✅ TheRedUsers Cybersecurity Internship Certificate  
 - ✅ Mastercard Cybersecurity Job Simulation on Forage  
-- ✅ Microsoft SC-900, Cisco Cybersecurity Essentials, IBM Web Dev  
+- ✅ Microsoft SC-900, Cisco Junior Cybersecurity Analyst, IBM Enterprise Security  
+- ✅ TryHackMe Advent of Cyber 2025
 
-🔗 **[View Full Achievements Repository →](https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges)**
+🔗 **[View Full Certifications & Badges Repository →](https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges)**
 
 <div align="center">
-  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Microsoft%20Secuirty%2CCompliance%20and%20Identity%20Fundamentals%20Badge.png?raw=true" width="200" />
-  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco%20Introduction%20to%20Cybersecuirty%20Badge.png?raw=true" width="200" />
-  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/cybersecurity_fundamentals_badge.png?raw=true" width="200" />
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Microsoft_Security_Compliance_Identity_Fundamentals_Badge.png?raw=true" width="150" />
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco_Junior_Cybersecurity_Analyst_Career_Path_Badge.png?raw=true" width="150" />
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco_Introduction_to_Cybersecurity_Badge.png?raw=true" width="150" />
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/IBM_Cybersecurity_Fundamentals_Badge.png?raw=true" width="150" />
 </div>
 
 ---
