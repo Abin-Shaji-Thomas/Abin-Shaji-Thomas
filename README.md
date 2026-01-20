@@ -43,23 +43,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abin-Shaji-Thomas&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Abin-Shaji-Thomas&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abin-Shaji-Thomas&layout=compact&theme=dark&hide_border=false&langs_count=8" alt="Top Languages" />
-</div>
-
-
----
-
 ## 📄 Resume
 
 [![📄 View My Resume](https://img.shields.io/badge/Resume-Click%20Here-blue?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/Abin-Shaji-Thomas/Abin-Shaji-Thomas/blob/main/Abin_Shaji_Thomas_Resume.pdf)
@@ -84,14 +67,6 @@
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco_Junior_Cybersecurity_Analyst_Career_Path_Badge.png?raw=true" width="150" />
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco_Introduction_to_Cybersecurity_Badge.png?raw=true" width="150" />
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/IBM_Cybersecurity_Fundamentals_Badge.png?raw=true" width="150" />
-</div>
-
----
-
-## 🏆 Trophy Case
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abin-Shaji-Thomas&theme=darkhub&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
