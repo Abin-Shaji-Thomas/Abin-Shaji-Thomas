@@ -45,7 +45,7 @@
 
 ## 📄 Resume
 
-[![📄 View My Resume](https://img.shields.io/badge/Resume-Click%20Here-blue?style=for-the-badge&logo=adobeacrobatreader)]([https://github.com/Abin-Shaji-Thomas/Abin-Shaji-Thomas/blob/main/Abin_Shaji_Thomas_Resume.pdf](https://github.com/Abin-Shaji-Thomas/Abin-Shaji-Thomas/blob/main/Resume/Abin_Shaji_Thomas_Resume_18.2.26.pdf))
+[![📄 View My Resume](https://img.shields.io/badge/Resume-Click%20Here-blue?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/Abin-Shaji-Thomas/Abin-Shaji-Thomas/blob/main/Resume/Abin_Shaji_Thomas_Resume_18.2.26.pdf)
 
 ---
 
