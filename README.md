@@ -63,10 +63,10 @@
 🔗 **[View Full Certifications & Badges Repository →](https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges)**
 
 <div align="center">
-  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Microsoft_Security_Compliance_Identity_Fundamentals_Badge.png?raw=true" width="150" />
-  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco_Junior_Cybersecurity_Analyst_Career_Path_Badge.png?raw=true" width="150" />
-  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco_Introduction_to_Cybersecurity_Badge.png?raw=true" width="150" />
-  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/IBM_Cybersecurity_Fundamentals_Badge.png?raw=true" width="150" />
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Microsoft/Microsoft_Security_Compliance_Identity_Fundamentals_Badge.png?raw=true" width="150" />
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco/Cisco_Junior_Cybersecurity_Analyst_Career_Path_Badge.png?raw=true" width="150" />
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco/Cisco_Introduction_to_Cybersecurity_Badge.png?raw=true" width="150" />
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/IBM/IBM_Cybersecurity_Fundamentals_Badge.png?raw=true" width="150" />
 </div>
 
 ---
